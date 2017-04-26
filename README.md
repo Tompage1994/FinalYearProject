@@ -16,15 +16,3 @@ The programs within this repository are as follows:
 |wordmatrix.py           | Generates a vector space model for each day of the year|
 
 A further description of each piece of code can be found within the program itself.
-
-|          Outlet         | Change in Sentiment |
-|:-----------------------:|:-------------------:|
-|          Metro          |      No Change      |
-|         BBC News        |         N/A         |
-|      Daily Express      |          +          |
-|        Daily Mail       |          +          |
-|   The Daily Telegraph   |          +          |
-|       The Guardian      |         N/A         |
-|         Sky News        |         N/A         |
-| London Evening Standard |          -          |
-|        The Mirror       |          +          |
